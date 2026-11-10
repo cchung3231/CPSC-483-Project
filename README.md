@@ -84,6 +84,9 @@ The project uses these libraries:
 | scikit-learn | Machine learning algorithms |
 | jupyter | Interactive notebook execution |
 | ipykernel | Jupyter kernel configuration |
+| plotnine | Data visualization using Grammar of Graphics |
+
+
 
 ### 5. Configure VS Code
 
@@ -112,6 +115,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import sklearn
+
+from plotnine import *
 
 print("All libraries imported successfully!")
 ```
