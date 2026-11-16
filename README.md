@@ -195,6 +195,7 @@ Review changes before committing.
 ## Authors
 
 - David Ulloa
+- James Ubiadas
 
 ---
 
